@@ -42,7 +42,7 @@ void loop() {
   //ADD YOUR CODE HERE
   involtSend(0, analogRead(A0));
   delay(2);
-  analogWrite(5, involtPin[5]);
+  analogWrite(3, involtPin[3]);
 
   //Clear the function to trigger once.
   fname = "";
