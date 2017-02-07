@@ -1,4 +1,7 @@
-﻿HTML and Arduino prototyping framework for designers. 
+﻿This example is for previous non-node-webkit version.
+------
+ 
+ HTML and Arduino prototyping framework for designers. 
 ======
 
 Why Involt?
